@@ -1,7 +1,7 @@
 # Lab 08 | Manage virtual machines
 
 > **AZ-104: Microsoft Azure Administrator**  
-> Conceptual architecture and service-flow reference. This page is **not a step-by-step lab instruction**.
+> Conceptual architecture and service-flow reference.
 
 ## Overview
 
@@ -35,9 +35,8 @@ Operate individual virtual machines and automatically scaled groups while mainta
 
 ## Architecture Diagram
 
-![Lab 08 architecture placeholder](../images/lab-08/architecture.png)
+![Lab 08 architecture placeholder](../images/lab-08/lab-08-manage-virtual-machines.png)
 
-> Add the final Azure service-flow image at `images/lab-08/architecture.png`.
 
 ## How the Services Work Together
 
@@ -59,9 +58,8 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference](https://example.com/az-104/lab-08)
+[Open the hands-on reference](https://youtu.be/JISPsqv1mzI?si=6FbtRviV4jlOTLdn)
 
-> Replace this dummy URL with the practical lab page. The hands-on page contains implementation exercises; this repository explains architecture and concepts.
 
 ## Key Takeaways
 
