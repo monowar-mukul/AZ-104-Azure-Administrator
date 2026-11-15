@@ -35,9 +35,7 @@ Connect separate Azure virtual networks privately and validate the resulting tra
 
 ## Architecture Diagram
 
-![Lab 05 architecture placeholder](../images/lab-05/architecture.png)
-
-> Add the final Azure service-flow image at `images/lab-05/architecture.png`.
+![Lab 05 architecture placeholder](../images/lab-05/lab-05-implement-intersite-connectivity.png)
 
 ## How the Services Work Together
 
@@ -59,9 +57,9 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference](https://example.com/az-104/lab-05)
+[Open the hands-on reference] (https://youtu.be/WcGQaYjAYyo?si=F5CNHvD1vv53y9zG)
 
-> Replace this dummy URL with the practical lab page. The hands-on page contains implementation exercises; this repository explains architecture and concepts.
+
 
 ## Key Takeaways
 
