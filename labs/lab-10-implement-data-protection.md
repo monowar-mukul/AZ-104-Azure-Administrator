@@ -1,7 +1,7 @@
 # Lab 10 | Implement data protection
 
 > **AZ-104: Microsoft Azure Administrator**  
-> Conceptual architecture and service-flow reference. This page is **not a step-by-step lab instruction**.
+> Conceptual architecture and service-flow reference.
 
 ## Overview
 
@@ -35,9 +35,8 @@ Protect an Azure virtual machine with recoverable backups and prepare for region
 
 ## Architecture Diagram
 
-![Lab 10 architecture placeholder](../images/lab-10/architecture.png)
+![Lab 10 architecture placeholder](../images/lab-10/lab-10-implement-data-protection.png)
 
-> Add the final Azure service-flow image at `images/lab-10/architecture.png`.
 
 ## How the Services Work Together
 
@@ -59,9 +58,8 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference](https://example.com/az-104/lab-10)
+[Open the hands-on reference](https://youtu.be/_-ZU0WrezjU?si=R1aufkJfMZRRlIjw)
 
-> Replace this dummy URL with the practical lab page. The hands-on page contains implementation exercises; this repository explains architecture and concepts.
 
 ## Key Takeaways
 
