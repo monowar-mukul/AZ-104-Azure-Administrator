@@ -55,7 +55,7 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference]([https://example.com/az-104/lab-01](https://youtu.be/E8USciNUryE?si=7MWj57x3Bwt6nWD5))
+[Open the hands-on reference](https://youtu.be/E8USciNUryE?si=7MWj57x3Bwt6nWD5)
 
 
 ## Key Takeaways
