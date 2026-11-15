@@ -31,7 +31,7 @@ Create a manageable identity structure for Azure administration while keeping id
 
 ## Architecture Diagram
 
-![Lab 01 architecture](../images/lab-01/Lab1.png)
+![Lab 01 architecture](../images/lab-01/LAB_01-Manage_Entra_ID_Identities.png)
 
 > Azure service-flow.
 
