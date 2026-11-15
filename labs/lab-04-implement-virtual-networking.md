@@ -1,7 +1,7 @@
 # Lab 04 | Implement virtual networking
 
 > **AZ-104: Microsoft Azure Administrator**  
-> Conceptual architecture and service-flow reference. This page is **not a step-by-step lab instruction**.
+> Conceptual architecture and service-flow reference.
 
 ## Overview
 
@@ -35,9 +35,8 @@ Build an isolated Azure network with segmented address spaces and controlled inb
 
 ## Architecture Diagram
 
-![Lab 04 architecture placeholder](../images/lab-04/architecture.png)
+![Lab 04 architecture placeholder](../images/lab-04/LAB_04-Implement_Virtual_Networking.png)
 
-> Add the final Azure service-flow image at `images/lab-04/architecture.png`.
 
 ## How the Services Work Together
 
@@ -59,9 +58,8 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference](https://example.com/az-104/lab-04)
+[Open the hands-on reference](https://youtu.be/XiQF9lbYpvc?si=kdixpbfKB-eiRY2m)
 
-> Replace this dummy URL with the practical lab page. The hands-on page contains implementation exercises; this repository explains architecture and concepts.
 
 ## Key Takeaways
 
