@@ -35,9 +35,8 @@ Provide durable object and file storage with controlled access, data protection,
 
 ## Architecture Diagram
 
-![Lab 07 architecture placeholder](../images/lab-07/architecture.png)
+![Lab 07 architecture placeholder](../images/lab-07/lab-07-manage-azure-storage.png)
 
-> Add the final Azure service-flow image at `images/lab-07/architecture.png`.
 
 ## How the Services Work Together
 
@@ -59,9 +58,8 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference](https://example.com/az-104/lab-07)
+[Open the hands-on reference](https://youtu.be/hXymu285KsQ?si=Ye86I3Uh8eSiSqEl)
 
-> Replace this dummy URL with the practical lab page. The hands-on page contains implementation exercises; this repository explains architecture and concepts.
 
 ## Key Takeaways
 
