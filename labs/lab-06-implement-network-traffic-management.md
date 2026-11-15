@@ -35,9 +35,8 @@ Distribute client requests across healthy back-end workloads using the correct L
 
 ## Architecture Diagram
 
-![Lab 06 architecture placeholder](../images/lab-06/architecture.png)
+![Lab 06 architecture placeholder](../images/lab-06/lab-06-implement-network-traffic-management.png)
 
-> Add the final Azure service-flow image at `images/lab-06/architecture.png`.
 
 ## How the Services Work Together
 
@@ -59,9 +58,9 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference](https://example.com/az-104/lab-06)
+[Open the hands-on reference] (https://youtu.be/wGd8PnWYFEw?si=UpSCiGeEFuISDxjn)
 
-> Replace this dummy URL with the practical lab page. The hands-on page contains implementation exercises; this repository explains architecture and concepts.
+
 
 ## Key Takeaways
 
