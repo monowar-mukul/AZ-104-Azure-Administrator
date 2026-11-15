@@ -1,7 +1,7 @@
 # Lab 11 | Implement monitoring
 
 > **AZ-104: Microsoft Azure Administrator**  
-> Conceptual architecture and service-flow reference. This page is **not a step-by-step lab instruction**.
+> Conceptual architecture and service-flow reference.
 
 ## Overview
 
@@ -39,7 +39,7 @@ Collect platform and guest signals, query telemetry, and notify operators when i
 
 ## Architecture Diagram
 
-![Lab 11 architecture placeholder](../images/lab-11/architecture.png)
+![Lab 11 architecture placeholder](../images/lab-11/lab-11-implement-monitoring.png)
 
 > Add the final Azure service-flow image at `images/lab-11/architecture.png`.
 
@@ -63,9 +63,8 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference](https://example.com/az-104/lab-11)
+[Open the hands-on reference](https://youtu.be/Uh4ha3ZNPMU?si=mCT72b8YKyrhP5Lp)
 
-> Replace this dummy URL with the practical lab page. The hands-on page contains implementation exercises; this repository explains architecture and concepts.
 
 ## Key Takeaways
 
