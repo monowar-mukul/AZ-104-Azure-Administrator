@@ -31,7 +31,7 @@ Create a manageable identity structure for Azure administration while keeping id
 
 ## Architecture Diagram
 
-![Lab 01 architecture placeholder](../images/lab-01/architecture.png)
+![Lab 01 architecture placeholder](../images/lab-01/Lab1.png)
 
 > Add the final Azure service-flow image at `images/lab-01/architecture.png`.
 
