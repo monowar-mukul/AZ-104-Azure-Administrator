@@ -1,7 +1,7 @@
 # Lab 03 | Manage Azure resources with Azure Resource Manager
 
 > **AZ-104: Microsoft Azure Administrator**  
-> Conceptual architecture and service-flow reference. This page is **not a step-by-step lab instruction**.
+> Conceptual architecture and service-flow reference.
 
 ## Overview
 
@@ -37,7 +37,6 @@ Deploy, organize, protect, and consistently describe Azure resources through the
 
 ![Lab 03 architecture placeholder](../images/lab-03/architecture.png)
 
-> Add the final Azure service-flow image at `images/lab-03/architecture.png`.
 
 ## How the Services Work Together
 
@@ -59,9 +58,8 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference](https://example.com/az-104/lab-03)
+[Open the hands-on reference](https://youtu.be/3oG6p00kDvs?si=HejxV9N0XTQ_cx_j)
 
-> Replace this dummy URL with the practical lab page. The hands-on page contains implementation exercises; this repository explains architecture and concepts.
 
 ## Key Takeaways
 
