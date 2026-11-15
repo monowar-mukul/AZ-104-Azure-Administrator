@@ -58,7 +58,7 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference] (https://youtu.be/wGd8PnWYFEw?si=UpSCiGeEFuISDxjn)
+[Open the hands-on reference](https://youtu.be/wGd8PnWYFEw?si=UpSCiGeEFuISDxjn)
 
 
 
