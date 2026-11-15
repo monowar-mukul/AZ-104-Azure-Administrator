@@ -31,7 +31,7 @@ Organize Azure resources into governance scopes and grant least-privilege access
 
 ## Architecture Diagram
 
-![Lab 02 architecture placeholder](../images/lab-02/Lab02a.png)
+![Lab 02 architecture placeholder](../images/lab-02/LAB_02a_Manage_Subscriptions_and_RBAC_Entra.png)
 
 > Azure service-flow.
 
