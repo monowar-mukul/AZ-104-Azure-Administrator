@@ -1,7 +1,7 @@
 # Lab 09a | Implement Azure Web Apps
 
 > **AZ-104: Microsoft Azure Administrator**  
-> Conceptual architecture and service-flow reference. This page is **not a step-by-step lab instruction**.
+> Conceptual architecture and service-flow reference.
 
 ## Overview
 
@@ -35,7 +35,7 @@ Host a managed web application, validate changes in staging, and release them wi
 
 ## Architecture Diagram
 
-![Lab 09a architecture placeholder](../images/lab-09a/architecture.png)
+![Lab 09a architecture placeholder](../images/lab-09a/lab-09a-implement-azure-web-apps.png)
 
 > Add the final Azure service-flow image at `images/lab-09a/architecture.png`.
 
@@ -59,9 +59,8 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference](https://example.com/az-104/lab-09a)
+[Open the hands-on reference](https://youtu.be/E-J7KenHnfs?si=cv3fZBA651NRV_Ec)
 
-> Replace this dummy URL with the practical lab page. The hands-on page contains implementation exercises; this repository explains architecture and concepts.
 
 ## Key Takeaways
 
