@@ -31,7 +31,7 @@ Create a manageable identity structure for Azure administration while keeping id
 
 ## Architecture Diagram
 
-![Lab 01 architecture placeholder](../images/lab-01/Lab1.png)
+![Lab 01 architecture](../images/lab-01/Lab1.png)
 
 > Add the final Azure service-flow image at `images/lab-01/architecture.png`.
 
@@ -55,7 +55,7 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference](https://example.com/az-104/lab-01)
+[Open the hands-on reference]([https://example.com/az-104/lab-01](https://youtu.be/E8USciNUryE?si=7MWj57x3Bwt6nWD5))
 
 > Replace this dummy URL with the practical lab page. The hands-on page contains implementation exercises; this repository explains architecture and concepts.
 
