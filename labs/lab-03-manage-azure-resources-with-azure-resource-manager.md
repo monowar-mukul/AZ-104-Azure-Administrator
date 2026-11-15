@@ -35,7 +35,7 @@ Deploy, organize, protect, and consistently describe Azure resources through the
 
 ## Architecture Diagram
 
-![Lab 03 architecture placeholder](../images/lab-03/architecture.png)
+![Lab 03 architecture placeholder](../images/lab-03/LAB_03b-Manage_Azure_Resources_by_Using_ARM_Templates.png)
 
 
 ## How the Services Work Together
@@ -58,7 +58,7 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference](https://youtu.be/3oG6p00kDvs?si=HejxV9N0XTQ_cx_j)
+[Open the hands-on reference](https://youtu.be/7vBpiBPsHwE?si=om9O2JFcxrZ-siYg)
 
 
 ## Key Takeaways
