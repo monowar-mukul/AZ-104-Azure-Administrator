@@ -1,7 +1,7 @@
 # Lab 01 | Manage Microsoft Entra identities and groups
 
 > **AZ-104: Microsoft Azure Administrator**  
-> Conceptual architecture and service-flow reference. This page is **not a step-by-step lab instruction**.
+> Conceptual architecture and service-flow reference.
 
 ## Overview
 
@@ -33,7 +33,7 @@ Create a manageable identity structure for Azure administration while keeping id
 
 ![Lab 01 architecture](../images/lab-01/Lab1.png)
 
-> Add the final Azure service-flow image at `images/lab-01/architecture.png`.
+> Azure service-flow.
 
 ## How the Services Work Together
 
@@ -55,9 +55,9 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference]([https://example.com/az-104/lab-01](https://youtu.be/E8USciNUryE?si=7MWj57x3Bwt6nWD5))
+[Open the hands-on reference] ([https://example.com/az-104/lab-01](https://youtu.be/E8USciNUryE?si=7MWj57x3Bwt6nWD5))
 
-> Replace this dummy URL with the practical lab page. The hands-on page contains implementation exercises; this repository explains architecture and concepts.
+> The hands-on page contains implementation exercises; this repository explains architecture and concepts.
 
 ## Key Takeaways
 
