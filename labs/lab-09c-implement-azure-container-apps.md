@@ -1,7 +1,7 @@
 # Lab 09c | Implement Azure Container Apps
 
 > **AZ-104: Microsoft Azure Administrator**  
-> Conceptual architecture and service-flow reference. This page is **not a step-by-step lab instruction**.
+> Conceptual architecture and service-flow reference.
 
 ## Overview
 
@@ -35,7 +35,7 @@ Run a long-lived containerized web workload on a managed, serverless application
 
 ## Architecture Diagram
 
-![Lab 09c architecture placeholder](../images/lab-09c/architecture.png)
+![Lab 09c architecture placeholder](../images/lab-09c/lab-09c-implement-azure-container-apps.png)
 
 > Add the final Azure service-flow image at `images/lab-09c/architecture.png`.
 
@@ -59,9 +59,8 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference](https://example.com/az-104/lab-09c)
+[Open the hands-on reference](lab-09b-implement-azure-container-instances)
 
-> Replace this dummy URL with the practical lab page. The hands-on page contains implementation exercises; this repository explains architecture and concepts.
 
 ## Key Takeaways
 
