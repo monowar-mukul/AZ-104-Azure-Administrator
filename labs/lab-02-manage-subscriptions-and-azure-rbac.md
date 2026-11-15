@@ -1,7 +1,7 @@
 # Lab 02 | Manage subscriptions and Azure RBAC
 
 > **AZ-104: Microsoft Azure Administrator**  
-> Conceptual architecture and service-flow reference. This page is **not a step-by-step lab instruction**.
+> Conceptual architecture and service-flow reference.
 
 ## Overview
 
@@ -31,9 +31,9 @@ Organize Azure resources into governance scopes and grant least-privilege access
 
 ## Architecture Diagram
 
-![Lab 02 architecture placeholder](../images/lab-02/architecture.png)
+![Lab 02 architecture placeholder](../images/lab-02/Lab02a.png)
 
-> Add the final Azure service-flow image at `images/lab-02/architecture.png`.
+> Azure service-flow.
 
 ## How the Services Work Together
 
@@ -55,9 +55,8 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference](https://example.com/az-104/lab-02)
+[Open the hands-on reference] (https://youtu.be/Fnfq9tXMNqI?si=WKH6-WF8ZL8s3hmc)
 
-> Replace this dummy URL with the practical lab page. The hands-on page contains implementation exercises; this repository explains architecture and concepts.
 
 ## Key Takeaways
 
