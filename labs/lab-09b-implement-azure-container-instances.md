@@ -1,7 +1,7 @@
 # Lab 09b | Implement Azure Container Instances
 
 > **AZ-104: Microsoft Azure Administrator**  
-> Conceptual architecture and service-flow reference. This page is **not a step-by-step lab instruction**.
+> Conceptual architecture and service-flow reference.
 
 ## Overview
 
@@ -35,7 +35,7 @@ Run a container image without provisioning virtual machines or managing a cluste
 
 ## Architecture Diagram
 
-![Lab 09b architecture placeholder](../images/lab-09b/architecture.png)
+![Lab 09b architecture placeholder](../images/lab-09b/lab-09b-implement-azure-container-instances.png)
 
 > Add the final Azure service-flow image at `images/lab-09b/architecture.png`.
 
@@ -59,9 +59,8 @@ The architecture separates the management plane, identity and authorization deci
 
 ## Hands-on Reference
 
-[Open the hands-on reference](https://example.com/az-104/lab-09b)
+[Open the hands-on reference](https://youtu.be/612P8fbRHdQ?si=i66SkaiNtB632v6F)
 
-> Replace this dummy URL with the practical lab page. The hands-on page contains implementation exercises; this repository explains architecture and concepts.
 
 ## Key Takeaways
 
