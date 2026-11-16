@@ -23,8 +23,6 @@ A conceptual companion to AZ-104 hands-on labs. The repository explains Azure se
 1. Open a lab page under `labs/`.
 2. Review the services and intended outcome.
 3. Follow the architecture flow sequence.
-4. Replace the dummy hands-on URL with your own practical reference.
-5. Add the corresponding diagram as `images/lab-xx/architecture.png`.
 
 ## Important
 
